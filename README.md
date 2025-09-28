@@ -773,7 +773,9 @@ npm start
     Прогресс сохраняется в localStorage → перезагрузка страницы не сбросит результаты.
     Кнопка «Сбросить прогресс» очищает данные.
     Поддержка вложенных уроков (TOC с подпунктами).
-     
+  
+## Полезные ссылки
+https://github.com/exelearning/exelearning/blob/main/doc/03-development-environment.md - конструктор SCORM курсов
 
 
 
