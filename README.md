@@ -779,6 +779,7 @@ https://github.com/exelearning/exelearning/blob/main/doc/03-development-environm
 
 https://github.com/exelearning/exelearning/releases сборки для разных ОС
 
+https://descargas.intef.es/cedec/exe_learning/Manuales/exe21/Manual_exe21_English/styles.html -документация exelearning
 
 
 
