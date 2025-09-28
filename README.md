@@ -777,6 +777,8 @@ npm start
 ## Полезные ссылки
 https://github.com/exelearning/exelearning/blob/main/doc/03-development-environment.md - конструктор SCORM курсов
 
+https://github.com/exelearning/exelearning/releases сборки для разных ОС
+
 
 
 
